@@ -1,0 +1,14 @@
+MMMMMMMMMM
+M33      M
+M        M
+MM  MM   M
+MM       M
+M2       M
+M2   MMMMM
+M2     MMM
+MMMM     M
+MMMMMMMMMM
+
+H,2,4,2,3,2
+T,1,5,3,3,2
+S,8,8,10,7,10
